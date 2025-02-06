@@ -11,7 +11,7 @@ import { ClerkProvider } from "@clerk/nextjs";
 
 export const metadata: Metadata = {
   title: "Shopco",
-  description: "NextGeneration E-Commerce Platform by Sarfraz Ahmad",
+  description: "NextGeneration E-Commerce Platform by Taha Aleem",
 };
 
 export const viewport: Viewport = {
