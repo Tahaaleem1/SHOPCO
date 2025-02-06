@@ -69,7 +69,7 @@ const ProductCards: React.FC = () => {
     <div className="p-4">
       <h2 className="text-center text-slate-800 mt-4 mb-2">
         {" "}
-        Product From API's Data
+        Product From API&apos;s Data
       </h2>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
